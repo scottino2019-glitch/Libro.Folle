@@ -1,0 +1,6 @@
+{
+  "name": "PDF Audio Notebook",
+  "description": "Un lettore PDF interattivo per annotare, disegnare e ascoltare file audio di esercizi in background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
